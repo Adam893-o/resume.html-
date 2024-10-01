@@ -1,7 +1,7 @@
 <!Doctype html>
 <html lang ='en'>
 <head>
-	<meta charset="UTF-8">
+	<meta charset="uft-8">
 	<title>Adam's Resume</title>
 </head>
 <body>
@@ -10,7 +10,7 @@
     <ul>
       <li><a href="https://adam893-o.github.io/project-1-jupiter.html">About Jupiter</a></li>
       <li><a href="https://adam893-o.github.io/resume.html">Adam's Resume</a></li>
-      <li><a href="https://adam893-o.github.io/Project-1-UNO">Facts About UNO</a></li>
+      <li><a href="https://adam893-o.github.io/Project-1-UNO">Uno Facts</a></li>
     </ul>
   </nav>
 </header>
