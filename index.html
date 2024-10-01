@@ -51,14 +51,16 @@
     <li>Graphic Design</li>
   </ul>
 
-<section>
-  <h2>Contact Information</h2>
-  <address>
-    <p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Linkedin</a></p>
-    <p>asharifeh@hawk.iit.edu</p>
-  </address>
-</section> 
-  <p>Written By Adam Sharifeh</p>
-  </address>
+ <section>
+   <h2>Contact Information</h2>
+   <address>
+     <p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Linkedin</a></p>
+     <p>asharifeh@hawk.iit.edu</p>
+   </address>
+ </section> 
+
+ <footer>
+   <p>Written By Adam Sharifeh</p>
+ </footer>
 </body>
 </html>
