@@ -8,9 +8,9 @@
 <header>
   <nav>
     <ul>
-      <li><a href="project-1-jupiter.html">About Jupiter</a></li>
+      <li><a href="jupiter.html">About Jupiter</a></li>
       <li><a href="resume.html">Adam's Resume</a></li>
-      <li><a href="project-1-uno.html">Uno Facts</a></li>
+      <li><a href="uno.html">Uno Facts</a></li>
     </ul>
   </nav>
 </header>
@@ -37,7 +37,7 @@
   <section>
     <h2>4.Other characters are in the game.</h2>
     <img src="media/image7.jpeg" alt="Image of Uno history">
-    <p> The game has gotten so popular over the years that other characters such as Mario, Star Wars characters, Harry Potter, and Minions made an appearance.</p>                                             
+    <p> The game has gotten so popular over the years that other characters such as Mario, Star Wars characters, Harry Potter, and Minions made an appearance.</p>     
   </section>
   
   <section>
