@@ -1,66 +1,52 @@
 <!Doctype html>
-<html lang ='en'>
+<html lang="en">
 <head>
-  <meta charset="uft-8">
-  <title>Adam's Resume</title>
+  <meta charset="utf-8">
+  <title>Uno Facts</title>
 </head>
 <body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href="project-1-jupiter.html">About Jupiter</a></li>
-        <li><a href="resume.html">Adam's Resume</a></li>
-        <li><a href="project-1-uno.html">Uno Facts</a></li>
-      </ul>
-    </nav>
-  </header>
-<h1>Adam's Resume</h1>
+<header>
+  <nav>
+    <ul>
+      <li><a href="project-1-jupiter.html">About Jupiter</a></li>
+      <li><a href="resume.html">Adam's Resume</a></li>
+      <li><a href="project-1-uno.html">Uno Facts</a></li>
+    </ul>
+  </nav>
+</header>
+  <div>
+  <h1>5 Fun Facts About UNO!</h1>
+  <p>Adam Sharifeh</p>
+  <p>Uno is a card game loved by all and is one of the most iconic card games of all time. This game has brought joy, anger, satisfaction, and even friendship endings but people still enjoy the game for how fun it is. However, there's more to the game than you think. It's had quite an interesting history and fact that people will find interesting.</p>
+  </div>
 <section>
-<h2> Education</h2>
-  <ul>
-    <li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
-    <li>Bachelors's in Information Technology and Management in Illinois Institute Of Technology</li>
-  </ul>
-</section> 
+    <h2>1.The game is much older than you think</h2>
+    <img src="media/image4.png" alt="Showing how old Uno is">
+    <p>The game was first made in 1971 by an American barber named Merle Robbins. This means this game is almost a century year old.</p>
+    <h2>2.Merle Robbins sold the game for $50,000.</h2>
+    <img src="media/image5.jpeg" alt="See how much money Merle Robbins the creator of uno made when selling it">
+    <p>This games was made a man named Merle Robbins and he sold this game for $50,000 which may not be a lot of money to this day. It's still a lot for an average person especially since this is a card game and that $50,000 was a huge deal in the past.</p>
+  </section> 
+    
+  <section>
+    <h2>3.Uno has sold in many countries.</h2>
+    <img src="media/image6.png" alt="Image of other UNO cards">
+    <p>UNO has sold in over 80 countries around the world</p>
+  </section>
   
-<section>
-  <h2>Carl Sandburg High School</h2>
-    <ul>
-      <li>Member of Muslim Student Association Orland Park, IL</li>
-      <li>GPA 3.7/4.0 May 2021</li>
-    </ul>
-</section>
-
-<section>
-  <h2>Experiance</h2>
-  <h3>Volunteer</h3>
-    <ul>
-      <li>Orland Park Prayer Center</li>
-      <li>Assisted in summer camp and counseling kids</li>
-      <li>Assist in a program's to help carry out general tasks Orland Park IL September 2021-2024</li>
-    </ul>
-</section> 
-  <h3>Skills</h3>
-  <ul>
-    <li>Bilingual in Arabic and English</li>
-    <li>Study Windows, Linux, Hardware and desktop</li>
-    <li>Excellent with socialising and communication</li>
-    <li>Excellent with organizing</li>
-    <li>Studied Web Development</li>
-    <li>Software skills in python</li>
-    <li>Graphic Design</li>
-  </ul>
-
- <section>
-   <h2>Contact Information</h2>
-   <address>
-     <p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Linkedin</a></p>
-     <p>asharifeh@hawk.iit.edu</p>
-   </address>
- </section> 
-
- <footer>
-   <p>Written By Adam Sharifeh</p>
- </footer>
+  <section>
+    <h2>4.Other characters are in the game.</h2>
+    <img src="media/image7.jpeg" alt="Image of Uno history">
+    <p> The game has gotten so popular over the years that other characters such as Mario, Star Wars characters, Harry Potter, and Minions made an appearance.</p>                                             
+  </section>
+  
+  <section>
+    <h2>5.The game has evolved a lot over the years.</h2>
+    <img src="media/image8.png" alt="New mechanics and rules that Uno has developed over the years">
+    <p>As time went by, this game had a lot of new mechanics and gimmicks to make the game more intense. Whether it's playing a 7 to take someone's hand, immediately playing the same card your opponent played when it's not your turn, or even challenging someone that plays the infamous 4+card on you to make them draw 4 instead. It has made the game more interesting than when it was first invented.</p>
+  </section> 
+  
+  <h2>Conclusion</h2>
+  <p>This game has brought a lot of entertainment to a lot of people. We may end up saying or doing things we don't mean but that's just how games are. This game is available for <strong>mobile and PC</strong> and they're high quality in the end.</p>
 </body>
 </html>
